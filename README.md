@@ -8,5 +8,5 @@ The project implements a Linear regression model to predict the final insurance 
 The performance of this model is evaluated with the help of r2_score and adjusted r2_score.
 
 # Performance
- r2_score= 0.80
+ r2_score= 0.80  
  adjusted r2_score=0.79
